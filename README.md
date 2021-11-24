@@ -1,0 +1,1 @@
+# takashis2naan.github.io
