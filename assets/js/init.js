@@ -144,6 +144,11 @@ $(document).ready(function(){
         });
     }
 
+        jQuery('#headerwrap').backstretch([
+          "assets/img/bg/bg1.jpg",
+          "assets/img/bg/bg2.jpg",
+          "assets/img/bg/bg3.jpg"
+        ], {duration: 8000, fade: 500});
     // ANIMATE ONCE PAGE LOAD IS OVER //
     Pace.on("done", function(){
         new WOW().init();
