@@ -197,11 +197,6 @@ $(window).load(function() {
       }, 300);
       return false;
     });
-	jQuery('#headerwrap').backstretch([
-          "assets/img/bg1.jpg",
-          "assets/img/bg2.jpg",
-          "assets/img/bg3.jpg"
-    ], {duration: 8000, fade: 500});
 });
 
 /* CONFETTI JS */
