@@ -198,9 +198,9 @@ $(window).load(function() {
       return false;
     });
 	jQuery('#headerwrap').backstretch([
-          "./assets/img/bg/bg1.jpg",
-          "./assets/img/bg/bg2.jpg",
-          "./assets/img/bg/bg3.jpg"
+          "assets/img/bg1.jpg",
+          "assets/img/bg2.jpg",
+          "assets/img/bg3.jpg"
     ], {duration: 8000, fade: 500});
 });
 
