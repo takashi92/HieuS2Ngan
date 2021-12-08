@@ -118,16 +118,22 @@
                     <div class="row">
                         <div class="col-md-5 col-md-offset-1 wow fadeIn">
                         	<img src="assets/img/him.jpg" class="img-responsive mb30">
-                            <p class="text-center"></p>
+                            <p class="text-center">I’ll be by your side, ‘til the day I dieI’ll be waiting ‘til I hear you say I Do.</p>
                         </div>
 
     					<div class="col-md-5 wow fadeIn">
     						<img src="assets/img/her.jpg" class="img-responsive mb30">
-    					    <p class="text-center"></p>
+    					    <p class="text-center">Today! I love you!</p>
     					</div>
                     </div>
+					<div class="row">
+                        <div class="col-lg-12 text-center mb100 wow fadeIn">    
+							<h2 class="section-heading heading-font"><span class="secondary-font">We will love without any hesitation</span></h2>
+                            <h3 class="section-subheading secondary-font">Or should we just love each other, forget about the hustle and bustle of life.</h3>
+                            <h3 class="section-subheading secondary-font">Not mind all the so-called money and fame, not interested in choosing who iss suitable tomorrow to marry.</h3>
+						 </div>
+                    </div>
                 </div>
-
             </div>
         </section>
 
